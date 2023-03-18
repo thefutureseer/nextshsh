@@ -1,6 +1,5 @@
 # nextshsh
 
-shush
 DoorDash for your spirit
 
 Wip-

@@ -1,0 +1,25 @@
+.container {
+  position: relative;
+}
+
+.map-div {
+  height: 8em;
+  /* width: em; */
+}
+
+.draggable {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  background-color: #ccc;
+  width: 80em;
+  height:9em;
+}
+
+.hide-btn {
+  margin-top: 10px;
+}
+
+.hidden {
+  display: none;
+}

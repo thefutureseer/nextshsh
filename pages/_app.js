@@ -4,7 +4,9 @@ import '../styles/dashBoard.css'
 // import Navbar from './components/Navbar'
 import Dashboard from '../pages/dashBoard/index'
 
-function MyApp({Component, pageProps }) {
+function MyApp(
+  // {Component, pageProps }
+  ) {
   return (
    <div>
     <Dashboard/>

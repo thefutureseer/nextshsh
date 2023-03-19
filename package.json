@@ -1,6 +1,5 @@
 {
   "name": "shsh",
-  "version": "0.1.0",
   "engines": {
     "node": "14.x"
   },
@@ -9,10 +8,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "heroku-postbuild": "next build"
   },
   "dependencies": {
-    "next": "13.2.4",
+    "next": "^13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
